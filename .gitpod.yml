@@ -1,5 +1,0 @@
-image: gitpod/workspace-node:latest
-
-tasks:
-  - init: npm install
-    command: npm start
